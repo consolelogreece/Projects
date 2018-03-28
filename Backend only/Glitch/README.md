@@ -1,5 +1,5 @@
 glitch project repo.
 
-due to an issue with glitches export methods, currently all projects are stored in a .tgz file.
+All projects also have their respective .tgz (compressed) file.
 
 url = https://consolelogreece.glitch.me
