@@ -1,0 +1,16 @@
+{
+  "name": "fcc-learn-npm-package-json",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.3",
+    "helmet": "*",
+    "useragent": "*"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "4.4.5"
+  }
+}
